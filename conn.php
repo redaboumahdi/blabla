@@ -6,6 +6,6 @@
   
   $con = mysqli_connect($HOST,$USER,$PASS,$DB);
 // Check connection
-echo 'caca';
+echo 'cacacaca';
 
 ?>
